@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#navlinks {
+    width: 100%;
+  }
+
+  .mobile-bg-rem {
+    -webkit-tap-highlight-color: transparent;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden !important;
+}
